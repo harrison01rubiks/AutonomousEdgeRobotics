@@ -1,4 +1,4 @@
-# **910 Connect Desktop Pi to Robot Pi**
+# **06 Connect Desktop Pi to Robot Pi**
 
 ## Prerequisites:
 
