@@ -1,4 +1,4 @@
-# **07 Robot Basics Jupyter Notebooks**
+# **08 Robot Basics Jupyter Notebooks**
 
 ## Prerequisites:
 
