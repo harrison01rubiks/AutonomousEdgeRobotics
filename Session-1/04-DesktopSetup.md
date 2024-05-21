@@ -1,4 +1,4 @@
-# **04 Desktop Setup**
+# **04 Pi Desktop Setup**
 
 
 ## Prerequisites:
