@@ -1,8 +1,9 @@
 # Session 1
 
 ## Goals
-- Unpack, assemble and test the Pi desktop and robot
-- Configure wifi and connect Pi desktop to robot
+- Unpack, assemble Pi desktop and robot
+- Configure wifi for Desktop and robot
+- Connect Pi desktop to robot
 - Start working with Jupyter Notebooks
 
 ## Part 1
