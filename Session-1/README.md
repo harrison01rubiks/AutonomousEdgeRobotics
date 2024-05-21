@@ -10,15 +10,16 @@
 
 ## Part 1
 
-- [01 Setup Pi Desktop](01-DesktopSetup.md)
+- [01 Assemble Pi Desktop](01-AssembleDesktop.md)
 - [02 Assemble Robot](02-AssembleRobot.md)
 - [03 Setup Field](03-FieldSetup.md)
 
 ## Part 2
-- [04 Robot Setup](04-RobotSetup.md)
-- [05 Robot Original Functionality](05-RobotOriginalFunctionality.md)
+- [04 Pi Desktop Setup](04-DesktopSetup.md)
+- [05 Robot Setup](05-RobotSetup.md)
 - [06 ConnectDesktopPitoRobotPi](06-ConnectDesktopPitoRobotPi.md)
-- [07 Robot Basics Jupyter Notebooks](07-RobotBasicsJupyterNotebooks.md)
+- [07 Robot Original Functionality](07-RobotOriginalFunctionality.md)
+- [08 Robot Basics Jupyter Notebooks](08-RobotBasicsJupyterNotebooks.md)
 
 ## Additional Info
 - Intro to Python
