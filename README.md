@@ -1,6 +1,6 @@
 # Autonomous Edge Robotics
 
-updated 05/21/2024
+updated 05/23/2024
 
 ## What you will need
 
@@ -19,20 +19,22 @@ updated 05/21/2024
  <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/images/RobotKit.jpg" width="600" > 
  <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/images/IMG_2230.jpg" width="600" > 
 
-## Prerequisites:
+## Learning Goals:
 
-1. Basic knowledge of Raspberry Pi setup and configuration.
-1. Familiarity with Python programming.
- 
+1. Raspberry Pi setup and configuration
+1. Python programming
+1. Using Jupyter Notebook 
+1. Basic robotics
+1. Using OpenCV
+
 ## [Pre-Work](Pre-Work/README.md)
+### To be completed before the workshop
 
-### Skip this for the workshop. This will already done.
-
-This section provides the details on how to setup the SD cards for both the desktop Pi and the robot Pi. 
+Setup needed for the Raspberry Pi images for both desktop Raspberry Pi and the robot Raspberry Pi. 
 - - - - - - - -  
 ## [Session-1](Session-1/README.md)
 
-This section is unboxing, assembling and getting both the robot and the Pi desktop running. 
+Unboxing, assembling and getting started tutorials.  
 
 ## [Session-2](Session-2.md/README.md)
 
