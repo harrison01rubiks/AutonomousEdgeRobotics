@@ -38,7 +38,7 @@
     sudo python CameraTest.py
     ~~~
 
-1. **Calibrate servos**
+1. **Calibrate servos**  if needed
 
     ~~~
     sudo python MasterPi/MasterPi.py &
