@@ -1,5 +1,7 @@
 # **05 Robot Setup**
 
+<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/Session-1/images/IMG_2048.jpg" width="400" > 
+
 ## Prerequisites:
 
 1. Robot is assembled
